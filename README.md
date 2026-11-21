@@ -43,4 +43,4 @@ WioBG770AにEnOceanユニットを接続します。
 ## 関連
 
 - 全体構成（ハブ）  
-  https://github.com/xmakers/enocean-iot-modules
+  https://github.com/xmakers-lab/enocean-iot-modules
